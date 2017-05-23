@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">IAK-B3 PIP</string>
+
+    <string name="pertanyaan1">Berapa Luas negara Indonesia ?</string>
+    <string name="jawaban1a">2,202 juta km²</string>
+    <string name="jawaban1b">1,905 juta km²</string>
+    <string name="jawaban1c">905 juta km²</string>
+    <string name="jawaban1d">3,304 juta km²</string>
+
+    <string name="pertanyaan2">Dasar negara Indonesia adalah...</string>
+    <string name="jawaban2a">UUD 1945</string>
+    <string name="jawaban2b">Indonesia Raya</string>
+    <string name="jawaban2c">Bendera Merah putih</string>
+    <string name="jawaban2d">Pancasila</string>
+
+    <string name="pertanyaan3">Apa kepanjagan dari NKRI ?</string>
+    <string name="jawaban3a">Negara Kita Republik Indonesia</string>
+    <string name="jawaban3b">Negara Kesatuan Republik Indonesia</string>
+    <string name="jawaban3c">Negara Kesatuan Rakyat Indonesia</string>
+    <string name="jawaban3d">Negara Kita Rakyat Indonesia</string>
+
+    <string name="pertanyaan4">Kapan Indonesia merdeka ?</string>
+    <string name="jawaban4a">17 Agustus 1945</string>
+    <string name="jawaban4b">18 Mei 1945</string>
+    <string name="jawaban4c">17 Agustus 1950</string>
+    <string name="jawaban4d">18 Mei 1950</string>
+
+    <string name="pertanyaan5">Presiden pertama Indonesia bernama...</string>
+    <string name="jawaban5a">Joko Widodo</string>
+    <string name="jawaban5b">Susilo Bambang Yudhoyono</string>
+    <string name="jawaban5c">Soekarno</string>
+    <string name="jawaban5d">Soeharto</string>
+
+    <string name="pertanyaan6">Sebutkan pulau terbesar di Indonesia !</string>
+    <string name="jawaban6a">Jawa</string>
+    <string name="jawaban6b">Sumatra</string>
+    <string name="jawaban6c">Kalimantan</string>
+    <string name="jawaban6d">Papua</string>
+
+    <string name="pertanyaan7">Indonesia diapit oleh 2 benua dan 2 samudra, sebutkan nama samudra yang mengapit Indonesia !</string>
+    <string name="jawaban7a">Samudera Hindia dan Samudera Artik</string>
+    <string name="jawaban7b">Samudera Hindia dan Samudera Pasifik</string>
+    <string name="jawaban7c">Samudera Pasifik dan Samudera Artik</string>
+    <string name="jawaban7d">Samudera Artik dan Samudera Hindia</string>
+
+    <string name="pertanyaan8">Apa nama Ibukota Indonesia ?</string>
+    <string name="jawaban8a">Madiun</string>
+    <string name="jawaban8b">Semarang</string>
+    <string name="jawaban8c">Palangkaraya</string>
+    <string name="jawaban8d">Jakarta</string>
+
+
+    <string name="pertanyaan9">Candi paling fenomenal di dunia berada di Magelang, Candi tersebut adalah...</string>
+    <string name="jawaban9a">Candi Prambanan</string>
+    <string name="jawaban9b">Candi Borobudur</string>
+    <string name="jawaban9c">Candi Dieng</string>
+    <string name="jawaban9d">Candi Gedong Songo</string>
+
+    <string name="pertanyaan10">Tempe adalah makanan asli Indonesia, apa bahan dasar tempe ?</string>
+    <string name="jawaban10a">Kedelai</string>
+    <string name="jawaban10b">Kacang Hijau</string>
+    <string name="jawaban10c">Beras</string>
+    <string name="jawaban10d">Tepung terigu</string>
+</resources>
